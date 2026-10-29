@@ -16,6 +16,10 @@ Open **http://127.0.0.1:9090** for a dashboard with synthetic events. HTTP decoy
 PYTHONPATH=src python3 -m unittest discover -s tests -v
 ```
 
+## SSH honeypot
+
+SSH capture uses **Cowrie**, installed separately. HoneyStudy includes its log adapter, forwarding, and analysis code. See [SSH setup](SSH_SETUP.md) for the local Cowrie command and integration scope.
+
 ## Code overview
 
 - **Simulation:** `decoy.py`, `personas.py`, `php_*`, `ftp_decoy.py`, and protocol adapters model service responses without executing captured payloads.
