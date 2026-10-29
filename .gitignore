@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+state/
+logs/
+credentials/
+*.sqlite*
+*.db
+*.jsonl
+*.pcap*
+*.pem
+*.key
+*.crt
+*.mmdb
