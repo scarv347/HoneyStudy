@@ -35,7 +35,7 @@ Optional geolocation databases, map boundaries, third-party honeypot engines suc
 
 I'm **Scott Carver**, a Computer Systems Engineering student at Arizona State University focused on cybersecurity. HoneyStudy reflects my interests in security operations, infrastructure, Linux, and learning through practical projects.
 
-**Read more on my portfolio:** full project write-up coming soon; the portfolio is not published yet.
+**Read more on my portfolio:** https://scott-carver.vercel.app/projects/cloud-honeypot
 
 [GitHub](https://github.com/scarv347) · [LinkedIn](https://www.linkedin.com/in/scott-carver0/)
 
